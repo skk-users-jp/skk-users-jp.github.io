@@ -8,7 +8,7 @@ title: 日本のSKKユーザのためのハブサイト
 
 ### WindowsのSKK
 
- * SKK日本語入力FEP
+ * [SKK日本語入力FEP](http://coexe.web.fc2.com/programs.html#skkfep)
  * CorvusSKK
  * SKKIME 1.5改 (*開発終了*)
  * skkime (*開発休止*)
