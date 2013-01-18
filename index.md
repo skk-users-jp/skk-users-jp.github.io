@@ -9,7 +9,7 @@ title: 日本のSKKユーザのためのハブサイト
 ### WindowsのSKK
 
  * SKK日本語入力FEP
- * Curvus-SKK
+ * CorvusSKK
  * SKKIME 1.5改 (*開発終了*)
  * skkime (*開発休止*)
  * wceSKKSERV
