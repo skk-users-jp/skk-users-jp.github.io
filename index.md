@@ -15,4 +15,5 @@ SKKとは
 ----
 
  * [はじめての方へ](/for_beginers)
+ * [SKK実装の一覧](list.html)
 
