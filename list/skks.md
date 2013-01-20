@@ -1,8 +1,13 @@
 ---
 layout: page
 title: SKK実装の一覧
+tag: skk
 ---
 {% include JB/setup %}
+
+単独で動作する (*他のSKKサーバを必要としない*) SKK の一覧です。
+
+SKKクライアントの機能を持つ (SKKサーバと通信できる) 、またはSKKサーバ機能を持つものを含みます。
 
 ## Windows
 
@@ -10,24 +15,26 @@ title: SKK実装の一覧
  * CorvusSKK
  * SKKIME 1.5改 (*開発終了*)
  * skkime (*開発休止*)
- * wceSKKSERV
 
 ## Mac OS X
 
  * AquaSKK
 
-## Linux
+## UNIX-like OS
+
+### デスクトップ環境
 
  * uim-skk
  * scim-skk
  * ibus-skk
 
-## UNIX-like OS
+### 端末
 
  * yaskk
  * libskk + libfep
  * Sentimental-SKK
- 
+ * skkfep
+
 ## エディタ
 
  * ddskk (Emacs)
