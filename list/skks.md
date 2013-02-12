@@ -18,7 +18,7 @@ SKKクライアントの機能を持つ (SKKサーバと通信できる) 、ま�
 
 ## Mac OS X
 
- * AquaSKK
+ * [AquaSKK](http://aquaskk.sourceforge.jp/)
 
 ## UNIX-like OS
 
@@ -30,10 +30,10 @@ SKKクライアントの機能を持つ (SKKサーバと通信できる) 、ま�
 
 ### 端末
 
- * yaskk
- * libskk + libfep
- * Sentimental-SKK
- * skkfep
+ * [yaskk](https://github.com/uobikiemukot/yaskk)
+ * [libskk](https://github.com/ueno/libskk) + [libfep](https://github.com/ueno/libfep)
+ * [Sentimental-SKK](http://saitoha.github.com/sentimental-skk/)
+ * [skkfep](http://aitoweb.world.coocan.jp/soft.html)
 
 ## エディタ
 
