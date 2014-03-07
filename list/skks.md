@@ -38,7 +38,7 @@ SKKクライアントの機能を持つ (SKKサーバと通信できる) 、ま�
 ## エディタ
 
  * ddskk (Emacs)
- * eskk.vim + skkdict.vim (Vim)
- * skk.vim (Vim)
+ * [eskk.vim](https://github.com/tyru/eskk.vim) (Vim)
+ * [skk.vim](https://github.com/tyru/skk.vim) (Vim)
  * skk.l (xyzzy)
 
