@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 日本のSKKユーザのためのハブサイト
+title: 日本のSKKユーザーのためのハブサイト
 ---
 {% include JB/setup %}
 
